@@ -2,6 +2,9 @@
 Download Apache Kafka: https://kafka.apache.org/downloads
 Navigate to /bin folder in downloaded Kafka binary.
 
+** Test with  kafka_2.12-2.2.0 
+
+
 Follow steps in this medium article:
 https://medium.com/@vishwateja.vangari/securing-kafka-cluster-using-sasl-acl-and-ssl-dec15b439f9d
 
